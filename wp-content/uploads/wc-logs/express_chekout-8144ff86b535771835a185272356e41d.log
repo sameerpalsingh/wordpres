@@ -1,0 +1,244 @@
+06-04-2017 @ 11:10:04 - SetExpressCheckoutArray
+(
+    [USER] => **********************
+    [PWD] => *****************
+    [SIGNATURE] => *********************************************************
+    [VERSION] => 115
+    [METHOD] => SetExpressCheckout
+    [RETURNURL] => http://www.dinerinn.com/wc-api/Express_Checkout_Gateway/?action=ex_get_express_checkout_details
+    [CANCELURL] => http://www.dinerinn.com/cart/
+    [PAGESTYLE] => 
+    [BRANDNAME] => DinerInn
+    [HDRIMG] => 
+    [LOGOIMG] => 
+    [SOLUTIONTYPE] => Sole
+    [LANDINGPAGE] => Login
+    [L_PAYMENTREQUEST_0_NAME0] => Alabama Restaurants List
+    [L_PAYMENTREQUEST_0_DESC0] => 
+    [L_PAYMENTREQUEST_0_AMT0] => 49
+    [L_PAYMENTREQUEST_0_QTY0] => 1
+    [L_PAYMENTREQUEST_0_ITEMURL0] => http://www.dinerinn.com/product/alabama-restaurants-list/
+    [PAYMENTREQUEST_0_AMT] => 49
+    [PAYMENTREQUEST_0_CURRENCYCODE] => USD
+    [PAYMENTREQUEST_0_ITEMAMT] => 49
+    [PAYMENTREQUEST_0_SHIPPINGAMT] => 0
+    [PAYMENTREQUEST_0_TAXAMT] => 0
+    [PAYMENTREQUEST_0_NOTIFYURL] => http://www.dinerinn.com/?Express_Checkout&action=ipn_handler
+    [PAYMENTREQUEST_0_PAYMENTACTION] => Sale
+    [MAXAMT] => 74
+    [PAYMENTREQUEST_0_SHIPTOSTREET] => 
+    [PAYMENTREQUEST_0_SHIPTOSTREET2] => 
+    [PAYMENTREQUEST_0_SHIPTOCITY] => 
+    [PAYMENTREQUEST_0_SHIPTOSTATE] => TX
+    [PAYMENTREQUEST_0_SHIPTOZIP] => 
+    [PAYMENTREQUEST_0_SHIPTOCOUNTRYCODE] => US
+    [PAYMENTREQUEST_0_SHIPTOPHONENUM] => 
+    [PAYMENTREQUEST_0_NOTETEXT] => 
+)
+
+06-04-2017 @ 11:10:05 - SetExpressCheckoutArray
+(
+    [TOKEN] => EC-25204977A40278202
+    [TIMESTAMP] => 2017-06-04T17:10:05Z
+    [CORRELATIONID] => 9c23ec4fd2748
+    [ACK] => Success
+    [VERSION] => 115
+    [BUILD] => 34310309
+)
+
+06-04-2017 @ 11:16:28 - SetExpressCheckoutArray
+(
+    [USER] => **********************
+    [PWD] => *****************
+    [SIGNATURE] => *********************************************************
+    [VERSION] => 115
+    [METHOD] => SetExpressCheckout
+    [RETURNURL] => http://www.dinerinn.com/wc-api/Express_Checkout_Gateway/?action=ex_get_express_checkout_details
+    [CANCELURL] => http://www.dinerinn.com/cart/
+    [PAGESTYLE] => 
+    [BRANDNAME] => DinerInn
+    [HDRIMG] => 
+    [LOGOIMG] => 
+    [SOLUTIONTYPE] => Sole
+    [LANDINGPAGE] => Login
+    [L_PAYMENTREQUEST_0_NAME0] => Alabama Restaurants List
+    [L_PAYMENTREQUEST_0_DESC0] => 
+    [L_PAYMENTREQUEST_0_AMT0] => 49
+    [L_PAYMENTREQUEST_0_QTY0] => 1
+    [L_PAYMENTREQUEST_0_ITEMURL0] => http://www.dinerinn.com/product/alabama-restaurants-list/
+    [PAYMENTREQUEST_0_AMT] => 49
+    [PAYMENTREQUEST_0_CURRENCYCODE] => USD
+    [PAYMENTREQUEST_0_ITEMAMT] => 49
+    [PAYMENTREQUEST_0_SHIPPINGAMT] => 0
+    [PAYMENTREQUEST_0_TAXAMT] => 0
+    [PAYMENTREQUEST_0_NOTIFYURL] => http://www.dinerinn.com/?Express_Checkout&action=ipn_handler
+    [PAYMENTREQUEST_0_PAYMENTACTION] => Sale
+    [MAXAMT] => 74
+    [PAYMENTREQUEST_0_SHIPTOSTREET] => 
+    [PAYMENTREQUEST_0_SHIPTOSTREET2] => 
+    [PAYMENTREQUEST_0_SHIPTOCITY] => 
+    [PAYMENTREQUEST_0_SHIPTOSTATE] => TX
+    [PAYMENTREQUEST_0_SHIPTOZIP] => 
+    [PAYMENTREQUEST_0_SHIPTOCOUNTRYCODE] => US
+    [PAYMENTREQUEST_0_SHIPTOPHONENUM] => 
+    [PAYMENTREQUEST_0_NOTETEXT] => 
+)
+
+06-04-2017 @ 11:16:29 - SetExpressCheckoutArray
+(
+    [TOKEN] => EC-36D87758LW6914352
+    [TIMESTAMP] => 2017-06-04T17:16:29Z
+    [CORRELATIONID] => ea05b038e94
+    [ACK] => Success
+    [VERSION] => 115
+    [BUILD] => 34310309
+)
+
+06-04-2017 @ 12:30:57 - SetExpressCheckoutArray
+(
+    [USER] => *********************************
+    [PWD] => ***********
+    [SIGNATURE] => *********************************************************
+    [VERSION] => 115
+    [METHOD] => SetExpressCheckout
+    [RETURNURL] => http://www.dinerinn.com/wc-api/Express_Checkout_Gateway/?action=ex_get_express_checkout_details
+    [CANCELURL] => http://www.dinerinn.com/cart/
+    [PAGESTYLE] => 
+    [BRANDNAME] => DinerInn
+    [HDRIMG] => 
+    [LOGOIMG] => 
+    [SOLUTIONTYPE] => Sole
+    [LANDINGPAGE] => Login
+    [L_PAYMENTREQUEST_0_NAME0] => Alabama Restaurants List
+    [L_PAYMENTREQUEST_0_DESC0] => 
+    [L_PAYMENTREQUEST_0_AMT0] => 49
+    [L_PAYMENTREQUEST_0_QTY0] => 1
+    [L_PAYMENTREQUEST_0_ITEMURL0] => http://www.dinerinn.com/product/alabama-restaurants-list/
+    [PAYMENTREQUEST_0_AMT] => 49
+    [PAYMENTREQUEST_0_CURRENCYCODE] => USD
+    [PAYMENTREQUEST_0_ITEMAMT] => 49
+    [PAYMENTREQUEST_0_SHIPPINGAMT] => 0
+    [PAYMENTREQUEST_0_TAXAMT] => 0
+    [PAYMENTREQUEST_0_NOTIFYURL] => http://www.dinerinn.com/?Express_Checkout&action=ipn_handler
+    [PAYMENTREQUEST_0_PAYMENTACTION] => Sale
+    [MAXAMT] => 74
+    [PAYMENTREQUEST_0_SHIPTOSTREET] => test
+    [PAYMENTREQUEST_0_SHIPTOSTREET2] => test
+    [PAYMENTREQUEST_0_SHIPTOCITY] => delhi
+    [PAYMENTREQUEST_0_SHIPTOSTATE] => TX
+    [PAYMENTREQUEST_0_SHIPTOZIP] => 90401
+    [PAYMENTREQUEST_0_SHIPTOCOUNTRYCODE] => US
+    [PAYMENTREQUEST_0_SHIPTOPHONENUM] => 9810222301
+    [PAYMENTREQUEST_0_NOTETEXT] => 
+)
+
+06-04-2017 @ 12:30:57 - SetExpressCheckoutArray
+(
+    [http_request_failed] => Array
+        (
+            [0] => stream_socket_client(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14077410:SSL routines:SSL23_GET_SERVER_HELLO:sslv3 alert handshake failure
+stream_socket_client(): Failed to enable crypto
+stream_socket_client(): unable to connect to ssl://api-3t.sandbox.paypal.com:443 (Unknown error)
+        )
+
+)
+
+06-04-2017 @ 12:35:14 - SetExpressCheckoutArray
+(
+    [USER] => *********************************
+    [PWD] => ***********
+    [SIGNATURE] => *********************************************************
+    [VERSION] => 115
+    [METHOD] => SetExpressCheckout
+    [RETURNURL] => http://www.dinerinn.com/wc-api/Express_Checkout_Gateway/?action=ex_get_express_checkout_details
+    [CANCELURL] => http://www.dinerinn.com/cart/
+    [PAGESTYLE] => 
+    [BRANDNAME] => DinerInn
+    [HDRIMG] => 
+    [LOGOIMG] => 
+    [SOLUTIONTYPE] => Sole
+    [LANDINGPAGE] => Login
+    [L_PAYMENTREQUEST_0_NAME0] => Alabama Restaurants List
+    [L_PAYMENTREQUEST_0_DESC0] => 
+    [L_PAYMENTREQUEST_0_AMT0] => 49
+    [L_PAYMENTREQUEST_0_QTY0] => 1
+    [L_PAYMENTREQUEST_0_ITEMURL0] => http://www.dinerinn.com/product/alabama-restaurants-list/
+    [PAYMENTREQUEST_0_AMT] => 49
+    [PAYMENTREQUEST_0_CURRENCYCODE] => USD
+    [PAYMENTREQUEST_0_ITEMAMT] => 49
+    [PAYMENTREQUEST_0_SHIPPINGAMT] => 0
+    [PAYMENTREQUEST_0_TAXAMT] => 0
+    [PAYMENTREQUEST_0_NOTIFYURL] => http://www.dinerinn.com/?Express_Checkout&action=ipn_handler
+    [PAYMENTREQUEST_0_PAYMENTACTION] => Sale
+    [MAXAMT] => 74
+    [PAYMENTREQUEST_0_SHIPTOSTREET] => test
+    [PAYMENTREQUEST_0_SHIPTOSTREET2] => test
+    [PAYMENTREQUEST_0_SHIPTOCITY] => delhi
+    [PAYMENTREQUEST_0_SHIPTOSTATE] => TX
+    [PAYMENTREQUEST_0_SHIPTOZIP] => 90401
+    [PAYMENTREQUEST_0_SHIPTOCOUNTRYCODE] => US
+    [PAYMENTREQUEST_0_SHIPTOPHONENUM] => 9810222301
+    [PAYMENTREQUEST_0_NOTETEXT] => 
+)
+
+06-04-2017 @ 12:35:14 - SetExpressCheckoutArray
+(
+    [http_request_failed] => Array
+        (
+            [0] => stream_socket_client(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14077410:SSL routines:SSL23_GET_SERVER_HELLO:sslv3 alert handshake failure
+stream_socket_client(): Failed to enable crypto
+stream_socket_client(): unable to connect to ssl://api-3t.sandbox.paypal.com:443 (Unknown error)
+        )
+
+)
+
+06-04-2017 @ 12:38:12 - SetExpressCheckoutArray
+(
+    [USER] => **********************
+    [PWD] => *****************
+    [SIGNATURE] => *********************************************************
+    [VERSION] => 115
+    [METHOD] => SetExpressCheckout
+    [RETURNURL] => http://www.dinerinn.com/wc-api/Express_Checkout_Gateway/?action=ex_get_express_checkout_details
+    [CANCELURL] => http://www.dinerinn.com/cart/
+    [PAGESTYLE] => 
+    [BRANDNAME] => DinerInn
+    [HDRIMG] => 
+    [LOGOIMG] => 
+    [SOLUTIONTYPE] => Sole
+    [LANDINGPAGE] => Login
+    [L_PAYMENTREQUEST_0_NAME0] => Alabama Restaurants List
+    [L_PAYMENTREQUEST_0_DESC0] => 
+    [L_PAYMENTREQUEST_0_AMT0] => 49
+    [L_PAYMENTREQUEST_0_QTY0] => 1
+    [L_PAYMENTREQUEST_0_ITEMURL0] => http://www.dinerinn.com/product/alabama-restaurants-list/
+    [PAYMENTREQUEST_0_AMT] => 49
+    [PAYMENTREQUEST_0_CURRENCYCODE] => USD
+    [PAYMENTREQUEST_0_ITEMAMT] => 49
+    [PAYMENTREQUEST_0_SHIPPINGAMT] => 0
+    [PAYMENTREQUEST_0_TAXAMT] => 0
+    [PAYMENTREQUEST_0_NOTIFYURL] => http://www.dinerinn.com/?Express_Checkout&action=ipn_handler
+    [PAYMENTREQUEST_0_PAYMENTACTION] => Sale
+    [MAXAMT] => 74
+    [PAYMENTREQUEST_0_SHIPTOSTREET] => test
+    [PAYMENTREQUEST_0_SHIPTOSTREET2] => test
+    [PAYMENTREQUEST_0_SHIPTOCITY] => delhi
+    [PAYMENTREQUEST_0_SHIPTOSTATE] => TX
+    [PAYMENTREQUEST_0_SHIPTOZIP] => 90401
+    [PAYMENTREQUEST_0_SHIPTOCOUNTRYCODE] => US
+    [PAYMENTREQUEST_0_SHIPTOPHONENUM] => 9810222301
+    [PAYMENTREQUEST_0_NOTETEXT] => 
+)
+
+06-04-2017 @ 12:38:12 - SetExpressCheckoutArray
+(
+    [TOKEN] => EC-83V90843L9398552S
+    [TIMESTAMP] => 2017-06-04T18:38:12Z
+    [CORRELATIONID] => 64fbc37a8ad3c
+    [ACK] => Success
+    [VERSION] => 115
+    [BUILD] => 34310309
+)
+
