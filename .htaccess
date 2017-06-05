@@ -1,8 +1,3 @@
-AuthName "Secure Area"
-AuthType Basic
-AuthUserFile /var/www/dinerinn.com/.htpasswd
-require valid-user
-
 # BEGIN WordPress
 <IfModule mod_rewrite.c>
 RewriteEngine On
