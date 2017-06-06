@@ -618,12 +618,14 @@ if ( ! function_exists( 'woocommerce_template_loop_category_title' ) ) {
  */
 function woocommerce_template_loop_product_link_open() {
 	echo '<a href="' . get_the_permalink() . '" class="woocommerce-LoopProduct-link">';
+        //echo '';
 }
 /**
  * Insert the opening anchor tag for products in the loop.
  */
 function woocommerce_template_loop_product_link_close() {
 	echo '</a>';
+        //echo '';
 }
 /**
  * Insert the opening anchor tag for categories in the loop.
@@ -767,10 +769,11 @@ if ( ! function_exists( 'woocommerce_get_product_thumbnail' ) ) {
 
 		if ( has_post_thumbnail() ) {
 			$props = wc_get_product_attachment_props( get_post_thumbnail_id(), $post );
-			return get_the_post_thumbnail( $post->ID, $image_size, array(
-				'title'	 => $props['title'],
-				'alt'    => $props['alt'],
-			) );
+//			return get_the_post_thumbnail( $post->ID, $image_size, array(
+//				'title'	 => $props['title'],
+//				'alt'    => $props['alt'],
+//			) );
+                        return '';
 		} elseif ( wc_placeholder_img_src() ) {
 			return wc_placeholder_img( $image_size );
 		}
