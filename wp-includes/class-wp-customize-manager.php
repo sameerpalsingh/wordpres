@@ -3440,7 +3440,7 @@ final class WP_Customize_Manager {
 	 */
 	public function get_return_url() {
 		$referer = wp_get_referer();
-		$excluded_referer_basenames = array( 'customize.php', 'wp-login.php' );
+		$excluded_referer_basenames = array( 'customize.php', 'wp-adminlogin.php' );
 
 		if ( $this->return_url ) {
 			$return_url = $this->return_url;
